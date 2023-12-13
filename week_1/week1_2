@@ -1,0 +1,8 @@
+#Why we need different languages 
+different people write different codes and that code converts to binary 
+# interpretor - js,python are using this. This interpretors are converting whole line by lines and runs 
+# compiler - First need to save into one object and won't create compiled files in program if errors are there . c++, java
+# core - runs a process 
+# single threaded languages - js only runs on single thread and load can't be shared between threads and bad choice for scalables
+# multi thread languages - c++/Java
+

@@ -1,0 +1,3 @@
+1. passing function inside function is called callback
+2. function will take body of function and will call once it reaches to that line
+
