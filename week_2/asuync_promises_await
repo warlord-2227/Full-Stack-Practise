@@ -1,0 +1,3 @@
+1. promises are syntactical sugar that make the code slightly mode readable
+2. How we can create our own async function
+3. What is the benefit of promises => async await 

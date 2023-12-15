@@ -1,0 +1,5 @@
+1. sync : sequential, only one thing is happening at a time
+2. async: multiple things are context switching with each other (Management comes in to picture)
+Human brain is single threaded but we can context switch b/w tasks or we can delegate tasks to other people
+
+
